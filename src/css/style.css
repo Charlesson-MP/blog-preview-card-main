@@ -54,7 +54,7 @@ main {
 
 .middle-section .category {
     background-color: hsl(47, 88%, 63%);
-    font: normal normal 0.9rem Figtree-extra-bold;
+    font: normal normal 0.9rem Figtree-extra-bold, Arial, Helvetica, sans-serif;
     width: 6rem;
     text-align: center;
     padding: 0.5rem 0.2rem;
@@ -62,7 +62,7 @@ main {
 }
 
 .middle-section .published {
-    font: normal normal 0.9rem Figtree-extra-bold;
+    font: normal normal 0.9rem Figtree-extra-bold, Arial, Helvetica, sans-serif;
     color: hsl(0, 0%, 31%);
 }
 
@@ -75,12 +75,12 @@ main {
 
 .description-section h1 {
     font-size: 1.4rem;
-    font-family: Figtree-extra-bold;
+    font-family: Figtree-extra-bold, Arial, Helvetica, sans-serif;
     color: hsl(0, 0%, 7%);
 }
 
 .description-section p {
-    font-family: Figtree-medium;
+    font-family: Figtree-medium, Arial, Helvetica, sans-serif;
     color: hsl(0, 0%, 42%);
 }
 
@@ -91,6 +91,6 @@ footer {
 }
 
 footer p {
-    font-family: Figtree-extra-bold;
+    font-family: Figtree-extra-bold, Arial, Helvetica, sans-serif;
     color: hsl(0, 0%, 7%);
 }
