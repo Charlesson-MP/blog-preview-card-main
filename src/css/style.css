@@ -79,6 +79,11 @@ main {
     color: hsl(0, 0%, 7%);
 }
 
+.description-section h1:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+
 .description-section p {
     font-family: Figtree-medium, Arial, Helvetica, sans-serif;
     color: hsl(0, 0%, 42%);
